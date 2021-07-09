@@ -3,4 +3,5 @@ build/
 lib/
 
 # visual studio
+.vs/
 *.sln
